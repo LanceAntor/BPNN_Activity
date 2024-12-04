@@ -1,0 +1,16 @@
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.exe
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.deps.json
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.runtimeconfig.json
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.dll
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.pdb
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.Form1.resources
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.csproj.GenerateResource.cache
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.AssemblyInfoInputs.cache
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.AssemblyInfo.cs
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.csproj.CoreCompileInputs.cache
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.dll
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\refint\Backpropagation.dll
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.pdb
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.genruntimeconfig.cache
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\ref\Backpropagation.dll

@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|c:\\users\\lance antor\\source\\repos\\backpropagation\\backpropagation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\backpropagation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|c:\\users\\lance antor\\source\\repos\\backpropagation\\backpropagation\\backneural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\backneural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|c:\\users\\lance antor\\source\\repos\\backpropagation\\backpropagation\\hiddenn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\hiddenn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|c:\\users\\lance antor\\source\\repos\\backpropagation\\backpropagation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|c:\\users\\lance antor\\source\\repos\\backpropagation\\backpropagation\\ouputn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\ouputn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|c:\\users\\lance antor\\source\\repos\\backpropagation\\backpropagation\\inputn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\inputn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Form1.cs",
+              "RelativeDocumentMoniker": "Backpropagation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Form1.cs",
+              "RelativeToolTip": "Backpropagation\\Form1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv0gAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:19:27.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Form1.cs",
+              "RelativeDocumentMoniker": "Backpropagation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Form1.cs [Design]",
+              "RelativeToolTip": "Backpropagation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:06:41.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Program.cs",
+              "RelativeDocumentMoniker": "Backpropagation\\Program.cs",
+              "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Program.cs",
+              "RelativeToolTip": "Backpropagation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:19:38.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OuputN.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\OuputN.cs",
+              "RelativeDocumentMoniker": "Backpropagation\\OuputN.cs",
+              "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\OuputN.cs",
+              "RelativeToolTip": "Backpropagation\\OuputN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:19:37.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputN.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\InputN.cs",
+              "RelativeDocumentMoniker": "Backpropagation\\InputN.cs",
+              "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\InputN.cs",
+              "RelativeToolTip": "Backpropagation\\InputN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:19:32.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackNeural.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\BackNeural.cs",
+              "RelativeDocumentMoniker": "Backpropagation\\BackNeural.cs",
+              "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\BackNeural.cs",
+              "RelativeToolTip": "Backpropagation\\BackNeural.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:19:31.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HiddenN.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\HiddenN.cs",
+              "RelativeDocumentMoniker": "Backpropagation\\HiddenN.cs",
+              "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\HiddenN.cs",
+              "RelativeToolTip": "Backpropagation\\HiddenN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:19:30.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
