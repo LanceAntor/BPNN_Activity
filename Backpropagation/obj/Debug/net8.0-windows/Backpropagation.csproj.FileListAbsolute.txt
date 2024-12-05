@@ -14,3 +14,4 @@ C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8
 C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.pdb
 C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.genruntimeconfig.cache
 C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\ref\Backpropagation.dll
+C:\Users\Lance Antor\source\repos\Backpropagation\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.sourcelink.json

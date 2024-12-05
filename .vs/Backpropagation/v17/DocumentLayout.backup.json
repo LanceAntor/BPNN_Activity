@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|c:\\users\\lance antor\\source\\repos\\backpropagation\\backpropagation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|c:\\users\\lance antor\\source\\repos\\backpropagation\\backpropagation\\backneural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E450610E-EFD8-4837-8DDE-3A7DE37A23C5}|Backpropagation\\Backpropagation.csproj|solutionrelative:backpropagation\\backneural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Backpropagation\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Form1.Designer.cs",
+              "RelativeToolTip": "Backpropagation\\Form1.Designer.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAiwJcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:04:45.711Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +65,7 @@
               "RelativeDocumentMoniker": "Backpropagation\\Form1.cs",
               "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Form1.cs",
               "RelativeToolTip": "Backpropagation\\Form1.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAwwEgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T13:19:27.503Z",
               "EditorCaption": ""
@@ -62,11 +79,12 @@
               "ToolTip": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Form1.cs [Design]",
               "RelativeToolTip": "Backpropagation\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:06:41.662Z"
+              "WhenOpened": "2024-12-03T13:06:41.662Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\Program.cs",
               "RelativeDocumentMoniker": "Backpropagation\\Program.cs",
@@ -78,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "OuputN.cs",
               "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\OuputN.cs",
               "RelativeDocumentMoniker": "Backpropagation\\OuputN.cs",
@@ -90,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "InputN.cs",
               "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\InputN.cs",
               "RelativeDocumentMoniker": "Backpropagation\\InputN.cs",
@@ -102,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BackNeural.cs",
               "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\BackNeural.cs",
               "RelativeDocumentMoniker": "Backpropagation\\BackNeural.cs",
@@ -114,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HiddenN.cs",
               "DocumentMoniker": "C:\\Users\\Lance Antor\\source\\repos\\Backpropagation\\Backpropagation\\HiddenN.cs",
               "RelativeDocumentMoniker": "Backpropagation\\HiddenN.cs",

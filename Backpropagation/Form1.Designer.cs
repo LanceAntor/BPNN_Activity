@@ -125,43 +125,31 @@
             // 
             // button4
             // 
-            button4.Location = new Point(121, 636);
+            button4.Location = new Point(0, 0);
             button4.Name = "button4";
-            button4.Size = new Size(144, 68);
-            button4.TabIndex = 9;
-            button4.Text = "Estimate Error";
-            button4.UseVisualStyleBackColor = true;
-            button4.Click += button4_Click;
+            button4.Size = new Size(75, 23);
+            button4.TabIndex = 3;
             // 
             // button5
             // 
-            button5.Location = new Point(353, 636);
+            button5.Location = new Point(0, 0);
             button5.Name = "button5";
-            button5.Size = new Size(144, 68);
-            button5.TabIndex = 10;
-            button5.Text = "Find Min Epoch";
-            button5.UseVisualStyleBackColor = true;
-            button5.Click += button5_Click;
+            button5.Size = new Size(75, 23);
+            button5.TabIndex = 2;
             // 
             // epochTextBox
             // 
-            epochTextBox.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            epochTextBox.Location = new Point(579, 653);
+            epochTextBox.Location = new Point(0, 0);
             epochTextBox.Name = "epochTextBox";
-            epochTextBox.Size = new Size(449, 61);
-            epochTextBox.TabIndex = 11;
-            epochTextBox.Text = "100";
+            epochTextBox.Size = new Size(100, 27);
+            epochTextBox.TabIndex = 1;
             // 
             // label2
             // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(692, 609);
+            label2.Location = new Point(0, 0);
             label2.Name = "label2";
-            label2.Size = new Size(232, 31);
-            label2.TabIndex = 12;
-            label2.Text = "TRAIN EPOCHS DATA:";
-            label2.Click += label2_Click;
+            label2.Size = new Size(100, 23);
+            label2.TabIndex = 0;
             // 
             // Form1
             // 
